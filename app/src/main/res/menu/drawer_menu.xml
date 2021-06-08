@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/fragment1"
+            android:title="Your Profile"
+            android:icon="@drawable/profile"/>
+        <item
+            android:id="@+id/fragment2"
+            android:title="Settings"
+            android:icon="@drawable/settings"/>
+        <item
+            android:id="@+id/fragment3"
+            android:title="Help &amp; Feedback"
+            android:icon="@drawable/feedback"/>
+        <item
+            android:id="@+id/fragment4"
+            android:title="Sign out"
+            android:icon="@drawable/signout"/>
+
+</menu>
